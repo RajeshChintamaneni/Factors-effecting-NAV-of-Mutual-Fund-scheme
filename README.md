@@ -1,2 +1,2 @@
 # Factors-effecting-NAV-of-Mutual-Fund-scheme
-In this repository we will try to find effect of different parameters on NAV(Net Asset Value) of mutual find scheme. Here different parameters what i considered as Price/Earning ratio,Price/Book ratio,Dividend Yield Ratio.For Analysis purpose took historical data of SBI focused equity fund from 04/01/2014 to 03/31/2016,for better analysis we can take longer periodic data.
+
